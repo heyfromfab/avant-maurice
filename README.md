@@ -1,7 +1,7 @@
 # avant-maurice
  
 {% for post in site.posts %}
- [{% post.title %}]({{ site.baseurl }}{{ post.url }})
+ [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
  
