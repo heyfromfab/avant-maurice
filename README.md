@@ -5,7 +5,7 @@
  
  {% for post in site.posts %}
 coucou {{post.title}}
-[héhé]({{post.url}})
+[post.title]({{ site.baseurl }}{{ post.url }})
   {% endfor %}
 
  
