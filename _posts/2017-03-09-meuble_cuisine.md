@@ -1,5 +1,5 @@
-﻿---
-title:  "Meuble de cuisine"
+---
+title: "Meuble de cuisine"
 permalink: meuble_cuisine
 sold: false
 ---
