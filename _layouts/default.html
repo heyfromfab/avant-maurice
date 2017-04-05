@@ -32,10 +32,13 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}-->
+        
         {% for post in site.posts %}
-          <p>
-            <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
-          </p>
+          {% if post.sold != true %}
+            <p>
+              <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+            </p>
+          {% endif %}
         {% endfor %}
       </header>
       <section>
