@@ -1,4 +1,6 @@
 ---
 title: index
 ---
-{% include main.html %}
+# A vendre :
+
+{% for post in site.posts %}{% if post.sold != true %}<img src="{{ site.baseurl }}/assets/{{ post.permalink }}.png" />{% endif %}{% endfor %}
