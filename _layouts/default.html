@@ -35,7 +35,7 @@
         
         {% for post in site.posts %}
           {% if post.sold != true %}
-            <p>
+            <p style="margin-bottom:10px;">
               <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
             </p>
           {% endif %}
