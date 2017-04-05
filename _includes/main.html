@@ -2,7 +2,7 @@
 
 
 {% for post in site.posts %}
-    {% if post.sold != true %}
-        <img src="{{ site.baseurl }}/assets/{{ post.permalink }}.png" />
-    {% endif %}
+ {% if post.sold != true %}
+ <img src="{{ site.baseurl }}/assets/{{ post.permalink }}.png" />
+ {% endif %}
 {% endfor %}
