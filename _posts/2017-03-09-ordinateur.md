@@ -1,6 +1,5 @@
 ---
 title:  "Ordinateur (tour PC complète)"
-permalink: thermos
+permalink: ordinateur
 ---
 Bel ordinateur qui fonctionne bien
-![Avec exclamation]({{ site.baseurl }}/assets/thermos.png)
