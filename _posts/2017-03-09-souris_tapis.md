@@ -8,6 +8,6 @@ Référence souris : [Mionix Castor](https://mionix.io/castor)
 Référence tapis de souris : [Steelseries DEX](https://fr.steelseries.com/gaming-mousepads/dex)
 
 *Souris 35€*  
-*Tapis 20*
+*Tapis 20€*
 
 <img src="{{ site.baseurl }}/assets/{{ page.permalink }}.png" />
