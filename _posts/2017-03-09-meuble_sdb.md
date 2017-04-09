@@ -2,5 +2,11 @@
 title: "Meuble salle de bain"
 permalink: meuble_sdb
 sold: false
+price: 20€
 ---
-Texte
+Meuble de salle de bain, il commence malheureusement à fatiguer (un peu bancale).  
+PxHxl : 27x181x60
+
+*{{ page.price }}*
+
+<img src="{{ site.baseurl }}/assets/{{ page.permalink }}.png" />
