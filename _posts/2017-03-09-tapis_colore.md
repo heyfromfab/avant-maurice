@@ -1,7 +1,7 @@
 ---
 title: "Tapis multicolore"
 permalink: tapis_colore
-sold: false
+sold: true
 price: 20€
 ---
 Tapis à poil ras, en excellent état -aucune tâche.  
