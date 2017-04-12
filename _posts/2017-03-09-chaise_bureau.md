@@ -1,7 +1,7 @@
 ---
 title:  "Chaise de bureau"
 permalink: chaise_bureau
-sold: false
+sold: true
 price: 40€
 ---
 Achetée il y a quelques mois, elle est dans un état irréprochable.  
